@@ -1,0 +1,44 @@
+CRITICAL - 2022-08-02 02:00:31 --> Undefined index: status
+in APPPATH\Views\pengalaman\viewdata.php on line 30.
+ 1 APPPATH\Views\pengalaman\viewdata.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: status', 'APPPATH\\Views\\pengalaman\\viewdata.php', 30, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pengalaman\\viewdata.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pengalaman/viewdata', [], true)
+ 5 APPPATH\Controllers\Pengalaman.php(19): view('pengalaman/viewdata', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pengalaman->index()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengalaman))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-02 02:01:06 --> Undefined index: status
+in APPPATH\Views\pengalaman\viewdata.php on line 30.
+ 1 APPPATH\Views\pengalaman\viewdata.php(30): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: status', 'APPPATH\\Views\\pengalaman\\viewdata.php', 30, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pengalaman\\viewdata.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pengalaman/viewdata', [], true)
+ 5 APPPATH\Controllers\Pengalaman.php(19): view('pengalaman/viewdata', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pengalaman->index()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengalaman))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-02 02:01:25 --> Undefined variable: start
+in APPPATH\Views\pengalaman\viewdata.php on line 38.
+ 1 APPPATH\Views\pengalaman\viewdata.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: start', 'APPPATH\\Views\\pengalaman\\viewdata.php', 38, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pengalaman\\viewdata.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pengalaman/viewdata', [], true)
+ 5 APPPATH\Controllers\Pengalaman.php(19): view('pengalaman/viewdata', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pengalaman->index()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengalaman))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-02 02:01:47 --> Undefined index: pengaawal
+in APPPATH\Views\pengalaman\viewdata.php on line 38.
+ 1 APPPATH\Views\pengalaman\viewdata.php(38): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: pengaawal', 'APPPATH\\Views\\pengalaman\\viewdata.php', 38, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\pengalaman\\viewdata.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('pengalaman/viewdata', [], true)
+ 5 APPPATH\Controllers\Pengalaman.php(19): view('pengalaman/viewdata', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Pengalaman->index()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pengalaman))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
